@@ -15,7 +15,7 @@ Este proyecto tiene como objetivo desarrollar un modelo de clasificación para p
 
 ### 1. Clonar el repositorio
 
-Para clonar este repositorio en tu máquina local haz lo siguiente:
+Para clonar este repositorio en la máquina local se debe digitar lo siguiente:
 
 ```bash
 git clone https://github.com/DanielFlorezT/ProyectoDSA.git
