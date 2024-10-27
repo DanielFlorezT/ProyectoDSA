@@ -1,6 +1,6 @@
-# Proyecto clasificación del riesgo de incumplimiento de pago en clientes de tarjetas de crédito - Team 4 - Despliegue de Soluciones Analíticas
+# Proyecto predicción de probabilidad del riesgo de incumplimiento de pago en clientes de tarjetas de crédito - Team 4 - Despliegue de Soluciones Analíticas
 
-Este proyecto tiene como objetivo desarrollar un modelo de clasificación para predecir el incumplimiento de pagos de clientes de tarjetas de crédito. Utiliza un enfoque de regresión logística y está implementado en Python, con gestión de datos a través de DVC (Data Version Control) y almacenamiento en un bucket de Amazon S3.
+Este proyecto tiene como objetivo desarrollar un modelo de clasificación para predecir la probabilidad del incumplimiento de pagos de clientes de tarjetas de crédito. Utiliza un enfoque de regresión logística y está implementado en Python, con gestión de datos a través de DVC (Data Version Control) y almacenamiento en un bucket de Amazon S3.
 
 ## Estructura del proyecto
 
