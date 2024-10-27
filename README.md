@@ -2,7 +2,7 @@
 
 Este proyecto tiene como objetivo desarrollar un modelo de clasificación para predecir el incumplimiento de pagos de clientes de tarjetas de crédito. Utiliza un enfoque de regresión logística y está implementado en Python, con gestión de datos a través de DVC (Data Version Control).
 
-## Estructura del Proyecto
+## Estructura del proyecto
 
 - `data/`: Carpeta que contiene el archivo de datos `UCI_Credit_Card.csv` rastreado con DVC.
 - `Proyecto_entrega_1.ipynb`: Notebook de Jupyter que contiene la exploración de datos y la implementación inicial del modelo.
@@ -13,10 +13,10 @@ Este proyecto tiene como objetivo desarrollar un modelo de clasificación para p
 
 ## Instrucciones de Configuración
 
-### 1. Clonar el Repositorio
+### 1. Clonar el repositorio
 
-Para empezar, clona este repositorio en tu máquina local:
+Para clonar este repositorio en tu máquina local haz lo siguiente:
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd tu_repositorio
+git clone https://github.com/DanielFlorezT/ProyectoDSA.git
+cd ProyectoDSA
