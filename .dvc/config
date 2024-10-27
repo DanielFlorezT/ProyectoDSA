@@ -1,0 +1,6 @@
+[core]
+    remote = aws-remote
+['remote "localstore"']
+    url = /tmp/dvcstore
+['remote "aws-remote"']
+    url = s3://proyecto-dvcstore-dsa-team4
