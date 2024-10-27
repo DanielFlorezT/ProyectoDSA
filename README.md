@@ -1,6 +1,6 @@
 # Proyecto de predicción de incumplimiento de pagos en clientes de tarjetas de crédito
 
-Este proyecto tiene como objetivo desarrollar un modelo de clasificación para predecir el incumplimiento de pagos de clientes de tarjetas de crédito. Utiliza un enfoque de regresión logística y está implementado en Python, con gestión de datos a través de DVC (Data Version Control).
+Este proyecto tiene como objetivo desarrollar un modelo de clasificación para predecir el incumplimiento de pagos de clientes de tarjetas de crédito. Utiliza un enfoque de regresión logística y está implementado en Python, con gestión de datos a través de DVC (Data Version Control) y almacenamiento en un bucket de Amazon S3.
 
 ## Estructura del proyecto
 
@@ -20,3 +20,11 @@ Para clonar este repositorio en tu máquina local haz lo siguiente:
 ```bash
 git clone https://github.com/DanielFlorezT/ProyectoDSA.git
 cd ProyectoDSA
+
+### 2. Obtener los datos
+
+Este proyecto usa DVC para gestionar el dataset. Asegúrate de tener acceso al almacenamiento remoto en S3 y ejecuta el siguiente comando para obtener los datos necesarios:
+
+```bash
+dvc pull
+
