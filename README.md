@@ -4,11 +4,11 @@ Este proyecto tiene como objetivo desarrollar un modelo de clasificación para p
 
 ## Estructura del proyecto
 
+- `.dvc/`: Carpeta de configuración de DVC para gestionar los datos.
 - `data/`: Carpeta que contiene el archivo de datos `UCI_Credit_Card.csv` rastreado con DVC.
+- `.dvcignore`: Archivo que especifica qué archivos y carpetas deben ser ignorados por DVC.
 - `Proyecto_entrega_1.ipynb`: Notebook de Jupyter que contiene la exploración de datos y la implementación inicial del modelo.
 - `README.md`: Documento de presentación del proyecto, que describe la estructura y propósito del repositorio.
-- `.dvc/`: Carpeta de configuración de DVC para gestionar los datos.
-- `.dvcignore`: Archivo que especifica qué archivos y carpetas deben ser ignorados por DVC.
 
 
 ## Instrucciones de Configuración
