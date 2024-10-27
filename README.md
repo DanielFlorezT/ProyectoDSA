@@ -20,8 +20,8 @@ Para clonar este repositorio en tu máquina local haz lo siguiente:
 `
 ```bash
 git clone https://github.com/DanielFlorezT/ProyectoDSA.git
-cd ProyectoDSA `
-
+cd ProyectoDSA 
+```
 ### 2. Obtener los datos
 
 Este proyecto usa DVC para gestionar el dataset. Asegúrate de tener acceso al almacenamiento remoto en S3 y ejecuta el siguiente comando para obtener los datos necesarios:
