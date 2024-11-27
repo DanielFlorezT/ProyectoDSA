@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+boto3
+pandas
+scikit-learn
+loguru
+pydantic-settings==2.0.3
